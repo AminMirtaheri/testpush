@@ -1,0 +1,11 @@
+.coloractive:active {
+    color: #4fd6f7;
+}
+
+.coloractive:focus {
+    color: #4fd6f7;
+}
+
+.coloractive:hover {
+    color: #4fd6f7;
+}
